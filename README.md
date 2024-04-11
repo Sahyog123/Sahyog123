@@ -3,7 +3,7 @@
 ## 📞 Contact Me
 - **Email:** sahyogshetty12@gmail.com
 - **Linkedin:** www.linkedin.com/in/sahyogshetty
-- **GitHub:** [Sahyog Shetty](https://github.com/sahyogshetty)
+- **GitHub:** [Sahyog Shetty](https://github.com/Sahyog123)
 
 ## 💡 About Me
 Hey there! I'm Sahyog, a passionate computing science graduate. With a knack for problem-solving and an eye for detail, I thrive in challenging environments. I'm on the lookout for opportunities where I can bring my skills to the table and grow both personally and professionally.
